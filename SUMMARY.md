@@ -11,6 +11,7 @@
         * [redis](2019/DataBase/redis/redis.md)
     * [git](2019/git/README.md)
         * [gitCommand](2019/git/gitCommand.md)
+        * [gitbook](2019/git/gitbook.md)
     * [java](2019/java/README.md)
         * [java](2019/java/java.md)
         * [web](2019/java/web.md)
@@ -55,6 +56,7 @@
         * [jmeter](2019/software/jmeter.md)
         * [maven](2019/software/maven.md)
         * [vscode](2019/software/vscode.md)
+        * [chrome](2019/software/chrome.md)
 * [Part I](part1/README.md)
     * [Writing is nice](part1/README.md#writing)
 
