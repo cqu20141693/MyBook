@@ -9,6 +9,8 @@
         * [mysql](2019/DataBase/mysql/mysql.md)
         * [redis](2019/DataBase/redis/README.md)
         * [redis](2019/DataBase/redis/redis.md)
+        * [mongo](2019/DataBase/mongo/README.md)
+        * [mongo](2019/DataBase/mongo/mongo.md)
     * [git](2019/git/README.md)
         * [gitCommand](2019/git/gitCommand.md)
         * [gitbook](2019/git/gitbook.md)
@@ -57,6 +59,7 @@
         * [maven](2019/software/maven.md)
         * [vscode](2019/software/vscode.md)
         * [chrome](2019/software/chrome.md)
+        * [shadowsocks](2019/software/shadowsocks.md)
 * [Part I](part1/README.md)
     * [Writing is nice](part1/README.md#writing)
 

@@ -9,7 +9,7 @@
 4. 卸载gitbook : npm uninstall -g gitbook
 ## gitbook 命令
 1. gitbook init  : 初始化和更新目录,会创建summary中新加入的目录,同时会生产readme
-2. gitbook sever : 将本地gitbook项目进行本地启动
+2. gitbook serve : 将本地gitbook项目进行本地启动
 3. gitbook build : 打包本地项目
 4. gitbook install : 安装book.json文件中的插件和package.json中的依赖
 5. gitbook pdf ./ ./mybook.pdf :  Generate a PDF file
