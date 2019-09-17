@@ -1,10 +1,10 @@
 # chrome
 ## chrome 开发插件
-- [Proxy SwitchyOmega](https://tmr.js.org/p/73acc153/)  : 浏览器代理管理器 
-   1.1 代理服务器
-   1.2 自动切换模式
-   1.3 PAC 情景模式
-   1.4 虚情景模式
+1. [Proxy SwitchyOmega](https://tmr.js.org/p/73acc153/)  : 浏览器代理管理器 
+   - 代理服务器
+   - 自动切换模式
+   - PAC 情景模式
+   - 虚情景模式
 
 2. cross-request(YApi 跨域请求)
 
