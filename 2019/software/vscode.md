@@ -11,6 +11,10 @@
 
 4. vscode-icons : vscode 文件目录展示图标
 
+5. vetur && vscode-icons
+    1. icons 主要是让文件夹的显示具有语义化
+    2. vetur 使得前端开发具有
+
 ### 快捷键
 1. shift + alt + ↓ ： 向下复制当前行
 2. ctrl + H : 对当前文件的字符串进行替换

@@ -36,6 +36,9 @@
 ### debug
 alt + click : 查看计算表达式的结果
 
+### idea 使用优化
+1. 自动包导入使用 : setting--> auto import
+
 ### idea 插件
 1. [主题插件](http://color-themes.com/?view=index) : 
     1.1 下在插件包
