@@ -36,3 +36,6 @@
     - Display（显示样式）
     - Time range（时间范围）
     - Alert 报警(需要安装插件)
+3. dashboard import
+    1. [grafana dashboard](https://grafana.com/grafana/dashboards?dataSource=prometheus&search=MySql) 进行下载
+    2. 通过面板进行导入
