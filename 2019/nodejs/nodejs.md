@@ -11,9 +11,6 @@
     2.4 运行js脚本
         2.4.1 node name.js 
 
-### ECMAScript 
-1. JavaScript 开发标准,语法
-
 ### npm
 1. 一个网站，就是前面提到用于搜索 JS 模块的网站：https://www.npmjs.com/
 2. 一个仓库，保存着人们分享的 JS 模块的大数据库
@@ -21,6 +18,20 @@
 4. 命令
     4.1 npm -v
     4.2 npm install npm@latest -g : 更新npm; npm@latest 就是 <packageName>@<version> 的格式，我们在下载其他模块时也是这个格式。-g 代表全局安装。
+    4.3 npm install -g cnpm --registry=https://registry.npm.taobao.org  -->  使用cnpm 淘宝进行进行包下载
+    4.4 包管理命令
+        ```
+        npm install 
+        npm install <package_name> --save-dev
+        npm install -g
+
+        npm update [-g] <package>
+        npm uninstall --save lodash
+     
+        npm config get cache
+
+        ```
+
 
 ### nvm 
 1. node 和npm的版本管理工具
@@ -39,3 +50,10 @@
         --save 表示将这个包名及对应的版本添加到 package.json的 dependencies
         --save-dev 表示将这个包名及对应的版本添加到 package.json的 devDependencies
          ```
+
+### yarn 新的包管理工具
+1. 安装yarn
+2. 使用yarn cli
+
+### ECMAScript 
+1. JavaScript 开发标准,语法
