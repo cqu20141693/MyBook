@@ -1,7 +1,7 @@
 # nodejs
 ### javaScript
 1. 单线程执行，根本不能进行同步IO操作,所以基本都是使用异步;
-
+2. ECMAScript是一种语言标准，而JavaScript是网景公司对ECMAScript标准的一种实现。
 ### Node.js
 1. 基于JavaScript语言和V8引擎的开源Web服务器项目,JavaScript运行时引擎;
 2. 命令
@@ -54,6 +54,15 @@
 ### yarn 新的包管理工具
 1. 安装yarn
 2. 使用yarn cli
+    2.1 
+    ```
+    yarn config get registry
+    yarn config set registry 'https://registry.npm.taobao.org'
+    ```
 
+### babel 
+1. 安装babel搭建es6 环境
+2. 使用babel
+    1. babel-node .\index.js
 ### ECMAScript 
 1. JavaScript 开发标准,语法
