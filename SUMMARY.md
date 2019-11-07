@@ -12,6 +12,7 @@
         * [redis 框架](2019/DataBase/redis/redis 框架.md)
         * [readme](2019/DataBase/mongo/README.md)
         * [mongo](2019/DataBase/mongo/mongo.md)
+        * [tidb](2019/DataBase/tidb/tidb.md)
     * [git](2019/git/README.md)
         * [gitCommand](2019/git/gitCommand.md)
         * [gitbook](2019/git/gitbook.md)
