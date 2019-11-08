@@ -51,6 +51,7 @@
     * [OS](2019/OS/README.md)
         * [windows](2019/OS/windows.md)
         * [linux](2019/OS/linux.md)
+        * [linux](2019/OS/linux-cmd.md)
     * [web server](2019/web server/README.md)
         * [nginx](2019/web server/nginx.md)
         * [tomcat](2019/web server/tomcat.md)
