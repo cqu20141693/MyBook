@@ -27,6 +27,10 @@
 19. shift + enter : 直接切换到下一行
 20. ctrl + shift + enter : 到达行末
 21. alt + enter : 语言编辑器(json神器)
+22. ctrl + f12 : 快速查看一个类的方法
+23. shift + f6 : 重命名
+
+
 ### UML图快捷键
 1. 
 ### 方法生成快捷键
