@@ -32,6 +32,7 @@
 ### 文件上传和下载
 1. rz 上传文件到服务器 ： 会打开一个上传的窗口选择文件上传；
 2. sz 下载文件
+3. 装载 lrzsz : yum -y install lrzsz
 
 ### 文件复制和移动，删除
 1. cp [-adfilprsu] 源文件(source) 目标文件(destination)
